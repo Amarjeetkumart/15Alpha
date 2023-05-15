@@ -1,0 +1,38 @@
+Write a c++ program to print an int, a double and a char on screen.
+
+Length and breadth of a rectangle are 5 and 7 respectively. Write a program to calculate the area and perimeter of the rectangle.
+
+Write a program to input the value of the radius of a circle from keyboard and then calculate its perimeter and area.
+
+Write a program to enter a 4 digit number from the keyboard. Add 8 to the number and then divide it by 3. Now, the modulus of that number is taken with 5 and then multiply the resultant value by 5. Display the final result.
+
+Now, solve the above question using assignment operators (eg. +=, -=, *=).
+
+Enter two numbers from keyboard. Write a program to check if the two numbers are equal.
+
+Write a program to enter the values of two variables 'a' and 'b' from keyboard and then check if both the conditions 'a < 50' and 'a < b' are true.
+
+Now solve the above question to check if atleast one of the conditions 'a < 50' and 'a < b' is true.
+
+If the marks of Robert in three subjects are 78,45 and 62 respectively (each out of 100 ), write a program to calculate his total marks and percentage marks.
+
+Write a program to enter the values of two variables from the keyboard and then interchange the values of the two variables. E.g.-
+If entered value of x is 5 and y is 10 then
+cout <<x << " and " << y
+should print 10 and 5.
+
+Take input of some length in meter and covert it to feet and inches.
+
+Write a program to convert Fahrenheit into Celsius.
+
+The total number of students in a class are 45 out of which 25 are boys. If 80% of the total students secured grade 'A' out of which 17 are boys, then write a program to calculate the total number of girls getting grade 'A'.
+
+
+/*EX-7 Write a program to calculate Square Root of any number using function. */
+
+/*EX-5 Write a program of Arithmetic Expression like addition, subtraction, Multiplication, division and Average etc. */
+
+
+/*EX-6 WAP to illustrate Arrays - Program to store 5 numbers entered by user in an array and display first and last number only. */
+
+
